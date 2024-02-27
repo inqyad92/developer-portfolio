@@ -1,0 +1,46 @@
+body{
+     
+        font-family: "Poppins", sans-serif;
+       margin: 2px;
+}
+    h1{
+        font-size: 60px;
+         
+    }
+    .inqiyad{
+        color: rgb(190, 239, 104);
+    }
+    .doctor{
+        color: blueviolet;
+    
+    }
+    section{
+        display: flex;
+    }
+    img{
+        border-radius: 50%;
+    }
+    .half-width{
+        width: 50%;
+        padding: 10px 10px;
+
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange tomato);
+        color: white;
+        background-color: orange;
+        padding: 10px 20px;
+        border-radius: 3px;
+        font-weight: 700;
+        margin-left: 8px;
+
+
+    }
+    .link-button:hover{
+        opacity: .5;
+        transition: .15s;
+        
+    }
+        
+    
