@@ -25,6 +25,7 @@ body{
         padding: 10px 10px;
 
     }
+    
     .link-button{
         text-decoration: none;
         background-image: linear-gradient(orange tomato);
@@ -42,5 +43,8 @@ body{
         transition: .15s;
         
     }
+        .inqi-img{
+            margin-left: 20px;
+        }
         
     
