@@ -14,8 +14,8 @@ body{
         color: blueviolet;
     
     }
-    section{
-        display: flex;
+    .flexible-con{
+       display: flex ;
     }
     img{
         border-radius: 50%;
@@ -46,5 +46,18 @@ body{
         .inqi-img{
             margin-left: 20px;
         }
-        
-    
+        .full-stack{
+            border-left:9px solid orange ;
+        }
+    .developer{
+        width: 50%;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-shadow: 10px 10px 40px grey;
+        border-radius: 5px;
+        margin-right: 20px;
+        margin-bottom: 30px;
+    }
+    .junior{
+        border-left: 9px solid blue;
+    }
